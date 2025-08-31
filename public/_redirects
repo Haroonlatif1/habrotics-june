@@ -1,0 +1,6 @@
+# SPA Routing - Redirect all routes to index.html
+/*    /index.html   200
+
+# Specific redirects
+/home  /  301
+/index.html  /  301
